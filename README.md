@@ -8,6 +8,6 @@ insert recent data and chart
 ---
 ## How does this type of kickstarter compare to others in the United States?
 * While theater is not the best performing kickstarter category in the US, its 58% success rate is above the 54% average, meaning that theater kickstarters more likely to succeed than most. Breaking down the theater category further, plays are the best performing subcategory, with a 61% success rate.
-![US_Categories_Chart](US_Categories_Chart.png)
+![US_Categories_Chart](US_Categories_Chart.png) ![US_Subcategories_Chart](US_Subcategories_Chart.png)
 ---
 ## How do successful and failed kickstarters differ in the United States?
