@@ -5,12 +5,12 @@
 ## Analysis and Challenges
 ### When Should this Campaign be Launched?
 * Historically, theater kickstarter campaigns have had the greatest success rate when launched during the months April through July, with May having the highest success rate of 67%. The success rate of other months is below the average of 60%, with exception of September and November at 61% success. When vewing the total number of successful, failed, and canceled theater campaigns each month, it becomes apparent that there is a large spike of successful campaigns that begins in May. While the failed campaigns also increase in the same month, this increase in not as dramatic, thus yielding May's increased success rate.
-![Outcomes_Launch_Date_Chart.png](Outcomes_Launch_Date_Chart.png) ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Deliverable_Images/Theater_Outcomes_vs_Launch.png)
 * The same trend is apparent when viewing the most recent 2014-2017 data. Summer months April through July still recieved an above average success rate, with May peaking at 67% success. Every other month performing at or below the 59% average, with exception of September and November at 60% success.
 ![Outcomes_2014_Onwards_Chart.png](Outcomes_2014_Onwards_Chart.png)
 ### What Goal Should be Picked?
 * Lower goals tend to have a higher success rate. The $15,000 to $19,999 range has a 50% success rate, and all ranges lower than this are more likely to succeed than fail. The $35,000 to $39,999 and $40,000 to $44,999 ranges both boast a 67% success rate, though there are only nine projects in both of these ranges combined. Thus, I would not confidently say that a project is actually more likely to succeed if its goal lies within these two ranges.
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Deliverable_Images/Outcomes_vs_Goals.png)
 ### How do Theater Kickstarters Compare to Others in the United States?
 * While theater is not the best performing kickstarter category in the US, its 58% success rate is above the 54% average, meaning that theater kickstarters more likely to succeed than most. Breaking down the theater category further, plays are the best performing subcategory, with a 61% success rate.
 ![US_Categories_Chart](US_Categories_Chart.png) ![US_Subcategories_Chart](US_Subcategories_Chart.png)
